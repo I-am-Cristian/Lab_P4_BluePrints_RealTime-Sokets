@@ -234,16 +234,21 @@ Actualizamos el server.js:
 
 ### Terminal 1 - Backend
 cd Ruta
+
 npm install
+
 npm run dev
 
 ### Terminal 2 - Frontend
 cd Ruta
+
 npm install
+
 npm run dev
 
 ### Video prueba
 
+<video controls src="resources/VideoPrueba.mp4" title="Title"></video>
 
 ### Resumen del Proyecto
 BluePrints RT es una aplicación de colaboración en tiempo real para dibujo de planos arquitectónicos. Permite a múltiples usuarios dibujar simultáneamente sobre el mismo plano, con soporte para dos tecnologías de comunicación en tiempo real: Socket.IO y STOMP.
